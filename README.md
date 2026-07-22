@@ -10,7 +10,7 @@
 
 - ⌨️ Languages: C, C++, Python, Assembly
 - 🐚 Shell/Scripting: Bash
-- 🛠️ Tools: Git, GitHub, Linux, PyCharm, CLion, Maple
+- 🛠️ Tools: Git, GitHub, Linux, PyCharm, CLion, Maple, Qt Designer
 
 ---
 
